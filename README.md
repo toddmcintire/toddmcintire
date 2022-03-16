@@ -2,7 +2,7 @@
 - 👀 I’m interested in becoming a better programmer
 - 🌱 I’m currently learning JavaScript!
 - 💞️ I’m looking to collaborate on beginner friendly projects
-- 📫 How to reach me mail@toddmcintire.com
+- 📫 [Email me!](mail@toddmcintire.com)
 - 🖱️ My website is toddmcintire.com
 - ⚡️ Fun fact: Loves Gundam, mechanical keyboards and his dog Lalah
 

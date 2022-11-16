@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning JavaScript!
 - 💞️ I’m looking to collaborate on beginner friendly projects
 - 📫 [Email me!](mail@toddmcintire.com)
-- 🖱️ My website is toddmcintire.com
+- 🖱️ Visit my [website!](http://www.toddmcintire.com)
 - ⚡️ Fun fact: Loves Gundam, mechanical keyboards and his dog Lalah
 
 <!---

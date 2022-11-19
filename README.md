@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on beginner friendly projects
 - 📫 [Email me!](mail@toddmcintire.com)
 - 🖱️ Visit my [website!](http://www.toddmcintire.com)
-- ⚡️ Fun fact: Loves Gundam, mechanical keyboards and his dog Lalah
+- ⚡️ Fun fact: Loves Gundam, mechanical keyboards and his dog's Lalah & Char
 
 <!---
 toddmcintire/toddmcintire is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

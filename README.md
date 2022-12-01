@@ -5,6 +5,7 @@
 - 📫 [Email me!](mail@toddmcintire.com)
 - 🖱️ Visit my [website!](http://www.toddmcintire.com)
 - ⚡️ Fun fact: Loves Gundam, mechanical keyboards and his dog's Lalah & Char
+- 👨🏻‍💻 [leetcode profile](https://leetcode.com/toddmcintire/)
 
 <!---
 toddmcintire/toddmcintire is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

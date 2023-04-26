@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Todd McIntire
 - 👀 I’m interested in becoming a better programmer
-- 🌱 I’m currently learning JavaScript!
+- 🌱 I’m currently learning Rust!
 - 💞️ I’m looking to collaborate on beginner friendly projects
 - 📫 [Email me!](mail@toddmcintire.com)
 - 🖱️ Visit my [website!](http://www.toddmcintire.com)
